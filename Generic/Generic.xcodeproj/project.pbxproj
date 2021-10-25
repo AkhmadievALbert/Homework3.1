@@ -15,6 +15,7 @@
 		4A080C3227262B0100934FAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A080C3027262B0100934FAE /* LaunchScreen.storyboard */; };
 		4A080C3B27262B6300934FAE /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A080C3A27262B6300934FAE /* Factory.swift */; };
 		4A080C3D27262C0E00934FAE /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A080C3C27262C0E00934FAE /* Stack.swift */; };
+		4A080C3F27262C5500934FAE /* StackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A080C3E27262C5500934FAE /* StackViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4A080C3327262B0100934FAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A080C3A27262B6300934FAE /* Factory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
 		4A080C3C27262C0E00934FAE /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		4A080C3E27262C5500934FAE /* StackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				4A080C2E27262B0100934FAE /* Assets.xcassets */,
 				4A080C3027262B0100934FAE /* LaunchScreen.storyboard */,
 				4A080C3327262B0100934FAE /* Info.plist */,
+				4A080C3E27262C5500934FAE /* StackViewController.swift */,
 			);
 			path = Generic;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				4A080C3B27262B6300934FAE /* Factory.swift in Sources */,
 				4A080C3D27262C0E00934FAE /* Stack.swift in Sources */,
 				4A080C2A27262AFE00934FAE /* ViewController.swift in Sources */,
+				4A080C3F27262C5500934FAE /* StackViewController.swift in Sources */,
 				4A080C2627262AFE00934FAE /* AppDelegate.swift in Sources */,
 				4A080C2827262AFE00934FAE /* SceneDelegate.swift in Sources */,
 			);

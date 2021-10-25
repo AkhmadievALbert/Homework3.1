@@ -72,7 +72,7 @@ extension Stack where T: UIViewController {
     }
 
     mutating func fastDismiss() {
-        first?.dismiss(animated: false, completion: nil)
+        first?.dismiss(animated: true, completion: nil)
         elements.removeAll()
     }
 }
